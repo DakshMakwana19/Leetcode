@@ -13,4 +13,16 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

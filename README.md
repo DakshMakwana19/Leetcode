@@ -18,6 +18,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -33,4 +34,12 @@ These is to track my daily leetcode journey
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

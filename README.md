@@ -20,6 +20,7 @@ These is to track my daily leetcode journey
 | [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
@@ -42,4 +44,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

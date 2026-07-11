@@ -7,6 +7,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DakshMakwana19/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

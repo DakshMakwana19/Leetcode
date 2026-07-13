@@ -21,6 +21,7 @@ These is to track my daily leetcode journey
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -40,6 +41,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshMakwana19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -62,6 +64,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshMakwana19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting

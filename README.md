@@ -18,6 +18,7 @@ These is to track my daily leetcode journey
 | ------- |
 | [0035-search-insert-position](https://github.com/DakshMakwana19/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/DakshMakwana19/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ These is to track my daily leetcode journey
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/DakshMakwana19/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |

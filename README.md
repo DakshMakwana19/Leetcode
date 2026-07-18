@@ -11,6 +11,7 @@ These is to track my daily leetcode journey
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DakshMakwana19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DakshMakwana19/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -33,6 +34,7 @@ These is to track my daily leetcode journey
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ These is to track my daily leetcode journey
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DakshMakwana19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |

@@ -38,6 +38,7 @@ These is to track my daily leetcode journey
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/DakshMakwana19/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DakshMakwana19/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -89,11 +90,13 @@ These is to track my daily leetcode journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshMakwana19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DakshMakwana19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -122,4 +125,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshMakwana19/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

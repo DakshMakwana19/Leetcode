@@ -16,6 +16,7 @@ These is to track my daily leetcode journey
 | [3536-maximum-product-of-two-digits](https://github.com/DakshMakwana19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DakshMakwana19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DakshMakwana19/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/DakshMakwana19/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ These is to track my daily leetcode journey
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3945-digit-frequency-score](https://github.com/DakshMakwana19/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |

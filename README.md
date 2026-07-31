@@ -48,6 +48,7 @@ These is to track my daily leetcode journey
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshMakwana19/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3925-concatenate-array-with-reverse](https://github.com/DakshMakwana19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
+| [3925-concatenate-array-with-reverse](https://github.com/DakshMakwana19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |

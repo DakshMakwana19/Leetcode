@@ -56,6 +56,7 @@ These is to track my daily leetcode journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DakshMakwana19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/DakshMakwana19/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshMakwana19/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -137,4 +138,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ These is to track my daily leetcode journey
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/DakshMakwana19/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DakshMakwana19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -44,6 +45,7 @@ These is to track my daily leetcode journey
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DakshMakwana19/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DakshMakwana19/Leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DakshMakwana19/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +85,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,4 +145,16 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

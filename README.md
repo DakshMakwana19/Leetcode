@@ -52,6 +52,7 @@ These is to track my daily leetcode journey
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DakshMakwana19/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DakshMakwana19/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3731-find-missing-elements](https://github.com/DakshMakwana19/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/DakshMakwana19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -101,6 +102,7 @@ These is to track my daily leetcode journey
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/DakshMakwana19/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/DakshMakwana19/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ These is to track my daily leetcode journey
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DakshMakwana19/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/DakshMakwana19/Leetcode/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |

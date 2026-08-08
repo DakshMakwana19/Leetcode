@@ -1,7 +1,7 @@
 class Solution(object):
     def removeOuterParentheses(self, s):
         level = 0
-        result = []
+        result = ""
 
         for ch in s:
             if ch == "(":
@@ -15,4 +15,4 @@ class Solution(object):
                     result += ch
                 
 
-        return "".join(result)
+        return result

@@ -12,6 +12,7 @@ These is to track my daily leetcode journey
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/DakshMakwana19/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DakshMakwana19/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -67,6 +68,7 @@ These is to track my daily leetcode journey
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -170,4 +172,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

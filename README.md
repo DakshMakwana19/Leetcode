@@ -65,6 +65,7 @@ These is to track my daily leetcode journey
 | [0020-valid-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DakshMakwana19/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
+| [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
@@ -152,6 +153,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Minimax
 |  |
 | ------- |
@@ -164,4 +166,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

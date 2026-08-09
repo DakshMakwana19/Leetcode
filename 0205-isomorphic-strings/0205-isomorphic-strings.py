@@ -1,19 +1,14 @@
 class Solution(object):
     def isIsomorphic(self, s, t):
-        forward={}
-        reverse={}
+        hash={}
         for i in range(len(s)):
-            a=s[i]
-            b=t[i]
-            if a in forward and forward[a]!=b:
-                return False
+            if s[i] in hash:
+                if hash[s[i]]!=t[i]:
+                    return False
             else:
-                forward[a]=b
-                    
-            if b in reverse and reverse[b]!=a:
-                return False
-            else:
-                reverse[b]=a
+                if t[i] in hash.values():
+                    return False
+                hash[s[i]]=t[i]
         return True
         """
         :type s: str

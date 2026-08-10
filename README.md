@@ -43,6 +43,7 @@ These is to track my daily leetcode journey
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DakshMakwana19/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshMakwana19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/DakshMakwana19/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0229-majority-element-ii) |
@@ -94,6 +95,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshMakwana19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |

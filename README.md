@@ -72,6 +72,7 @@ These is to track my daily leetcode journey
 | [1021-remove-outermost-parentheses](https://github.com/DakshMakwana19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DakshMakwana19/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DakshMakwana19/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +115,7 @@ These is to track my daily leetcode journey
 | [0904-fruit-into-baskets](https://github.com/DakshMakwana19/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/DakshMakwana19/Leetcode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DakshMakwana19/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/DakshMakwana19/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |

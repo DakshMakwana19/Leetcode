@@ -41,6 +41,7 @@ These is to track my daily leetcode journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DakshMakwana19/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DakshMakwana19/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/DakshMakwana19/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DakshMakwana19/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DakshMakwana19/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshMakwana19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +136,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DakshMakwana19/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -184,4 +186,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DakshMakwana19/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ These is to track my daily leetcode journey
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshMakwana19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/DakshMakwana19/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshMakwana19/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -196,4 +197,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DakshMakwana19/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

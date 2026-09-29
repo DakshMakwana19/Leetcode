@@ -9,6 +9,7 @@ These is to track my daily leetcode journey
 | [0007-reverse-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/DakshMakwana19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/DakshMakwana19/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DakshMakwana19/Leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshMakwana19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DakshMakwana19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshMakwana19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/DakshMakwana19/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
@@ -201,4 +203,8 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DakshMakwana19/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

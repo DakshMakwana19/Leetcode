@@ -202,6 +202,7 @@ These is to track my daily leetcode journey
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DakshMakwana19/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |

@@ -146,6 +146,7 @@ These is to track my daily leetcode journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DakshMakwana19/Leetcode/tree/master/0067-add-binary) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DakshMakwana19/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3925-concatenate-array-with-reverse](https://github.com/DakshMakwana19/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
@@ -204,6 +205,7 @@ These is to track my daily leetcode journey
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DakshMakwana19/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DakshMakwana19/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DakshMakwana19/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Memoization
 |  |
 | ------- |
